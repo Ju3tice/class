@@ -1,0 +1,15 @@
+*{color: blue;}
+p{background-color: green;}
+body{background-color: black;}
+.text{font-size: 100px; 
+    text-decoration: line-through;}
+.small{border: white 2opx solid;}
+#lead-text{font-style: italic;}
+ul > li{
+    font-family: sans-serif;
+    font-size: 30px;
+}
+ul a{ text-decoration: none;}
+p + p{
+    text-align: center
+}

@@ -1,0 +1,16 @@
+#flexbox{
+    background-color: purple;
+    height: 100px;
+
+}
+#header{
+    text-align: center;
+color: white;
+}
+.box{
+    background-color: aqua;
+}
+
+p{
+    color: rgb(0, 0, 0);
+}
